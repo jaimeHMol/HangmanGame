@@ -1,2 +1,8 @@
 # hangmanGame
-Juego web de ahorcado con palabras y expresiones en ingles.
+Juego web de ahorcado con palabras y expresiones en ingles. Basado en el código de: Joe Reisigl.
+  
+  Desarrollado para el curso de ingles del nivel consolidación I llevado a cabo en Centro Universitario de Idiomas de la ciudad de Buenos Aires.
+  
+  Puedes jugarlo en [este link.](https://jaimehmol.github.io/hangmanGame/)
+  
+  Diciembre 2017.
